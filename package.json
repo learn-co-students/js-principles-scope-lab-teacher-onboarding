@@ -25,6 +25,10 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/js-principles-scope-lab#readme",
   "devDependencies": {
-    "learn-browser": "^0.1.13"
+    "learn-browser": "^0.1.17"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
   }
 }
